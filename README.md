@@ -258,3 +258,6 @@ Future improvements include:
 - Support for additional resume formats.
 
 ---
+
+[SDAIAAcademy](https://github.com/SDAIAAcademy)
+
